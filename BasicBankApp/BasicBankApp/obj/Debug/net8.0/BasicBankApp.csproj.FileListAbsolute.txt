@@ -1,0 +1,15 @@
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\PersonalProjects\BasicBankApp\BasicBankApp\bin\Debug\net8.0\BasicBankApp.exe
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\PersonalProjects\BasicBankApp\BasicBankApp\bin\Debug\net8.0\BasicBankApp.deps.json
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\PersonalProjects\BasicBankApp\BasicBankApp\bin\Debug\net8.0\BasicBankApp.runtimeconfig.json
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\PersonalProjects\BasicBankApp\BasicBankApp\bin\Debug\net8.0\BasicBankApp.dll
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\PersonalProjects\BasicBankApp\BasicBankApp\bin\Debug\net8.0\BasicBankApp.pdb
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\PersonalProjects\BasicBankApp\BasicBankApp\obj\Debug\net8.0\BasicBankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\PersonalProjects\BasicBankApp\BasicBankApp\obj\Debug\net8.0\BasicBankApp.AssemblyInfoInputs.cache
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\PersonalProjects\BasicBankApp\BasicBankApp\obj\Debug\net8.0\BasicBankApp.AssemblyInfo.cs
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\PersonalProjects\BasicBankApp\BasicBankApp\obj\Debug\net8.0\BasicBankApp.csproj.CoreCompileInputs.cache
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\PersonalProjects\BasicBankApp\BasicBankApp\obj\Debug\net8.0\BasicBankApp.sourcelink.json
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\PersonalProjects\BasicBankApp\BasicBankApp\obj\Debug\net8.0\BasicBankApp.dll
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\PersonalProjects\BasicBankApp\BasicBankApp\obj\Debug\net8.0\refint\BasicBankApp.dll
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\PersonalProjects\BasicBankApp\BasicBankApp\obj\Debug\net8.0\BasicBankApp.pdb
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\PersonalProjects\BasicBankApp\BasicBankApp\obj\Debug\net8.0\BasicBankApp.genruntimeconfig.cache
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\PersonalProjects\BasicBankApp\BasicBankApp\obj\Debug\net8.0\ref\BasicBankApp.dll
