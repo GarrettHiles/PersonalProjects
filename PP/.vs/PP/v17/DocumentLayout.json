@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Garrett Hiles\\OneDrive\\Documents\\GitHub\\PersonalProjects\\PP\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83AA6D20-AFDE-45DB-B56A-89B3DD29613C}|BankWebsite\\BankWebsite.csproj|c:\\users\\garrett hiles\\onedrive\\documents\\github\\personalprojects\\pp\\bankwebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83AA6D20-AFDE-45DB-B56A-89B3DD29613C}|BankWebsite\\BankWebsite.csproj|solutionrelative:bankwebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83AA6D20-AFDE-45DB-B56A-89B3DD29613C}|BankWebsite\\BankWebsite.csproj|c:\\users\\garrett hiles\\onedrive\\documents\\github\\personalprojects\\pp\\bankwebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83AA6D20-AFDE-45DB-B56A-89B3DD29613C}|BankWebsite\\BankWebsite.csproj|solutionrelative:bankwebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83AA6D20-AFDE-45DB-B56A-89B3DD29613C}|BankWebsite\\BankWebsite.csproj|c:\\users\\garrett hiles\\onedrive\\documents\\github\\personalprojects\\pp\\bankwebsite\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83AA6D20-AFDE-45DB-B56A-89B3DD29613C}|BankWebsite\\BankWebsite.csproj|solutionrelative:bankwebsite\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83AA6D20-AFDE-45DB-B56A-89B3DD29613C}|BankWebsite\\BankWebsite.csproj|c:\\users\\garrett hiles\\onedrive\\documents\\github\\personalprojects\\pp\\bankwebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83AA6D20-AFDE-45DB-B56A-89B3DD29613C}|BankWebsite\\BankWebsite.csproj|solutionrelative:bankwebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Garrett Hiles\\OneDrive\\Documents\\GitHub\\PersonalProjects\\PP\\BankWebsite\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BankWebsite\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Garrett Hiles\\OneDrive\\Documents\\GitHub\\PersonalProjects\\PP\\BankWebsite\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BankWebsite\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T21:00:20.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Garrett Hiles\\OneDrive\\Documents\\GitHub\\PersonalProjects\\PP\\BankWebsite\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BankWebsite\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Garrett Hiles\\OneDrive\\Documents\\GitHub\\PersonalProjects\\PP\\BankWebsite\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BankWebsite\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T20:58:53.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Garrett Hiles\\OneDrive\\Documents\\GitHub\\PersonalProjects\\PP\\BankWebsite\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BankWebsite\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Garrett Hiles\\OneDrive\\Documents\\GitHub\\PersonalProjects\\PP\\BankWebsite\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BankWebsite\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T20:58:49.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Garrett Hiles\\OneDrive\\Documents\\GitHub\\PersonalProjects\\PP\\BankWebsite\\Program.cs",
+              "RelativeDocumentMoniker": "BankWebsite\\Program.cs",
+              "ToolTip": "C:\\Users\\Garrett Hiles\\OneDrive\\Documents\\GitHub\\PersonalProjects\\PP\\BankWebsite\\Program.cs",
+              "RelativeToolTip": "BankWebsite\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T20:58:38.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
