@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BasicBankApp;
+using System;
 
 
 namespace Bank
@@ -7,8 +8,15 @@ namespace Bank
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.ReadLine();
+            BankAccount bankAccount = new BankAccount( money: 200, name: "Monkey D Luffy");
+            BankAccount banksanji = new BankAccount(money: 50, name:"Vinsmoke Sanji");
+
+            bankAccount.AddMoney(amount: 50);
+            banksanji.AddMoney(amount: 2000);
+
+            bankAccount.getinfo();
+            banksanji.getinfo();
+
         }
     }
 }

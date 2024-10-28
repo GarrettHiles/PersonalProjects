@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Garrett Hiles\\OneDrive\\Documents\\GitHub\\PersonalProjects\\BasicBankApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB7F8FE-3875-4F58-B676-C79AD588D0ED}|BasicBankApp\\BasicBankApp.csproj|c:\\users\\garrett hiles\\onedrive\\documents\\github\\personalprojects\\basicbankapp\\basicbankapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB7F8FE-3875-4F58-B676-C79AD588D0ED}|BasicBankApp\\BasicBankApp.csproj|solutionrelative:basicbankapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB7F8FE-3875-4F58-B676-C79AD588D0ED}|BasicBankApp\\BasicBankApp.csproj|c:\\users\\garrett hiles\\onedrive\\documents\\github\\personalprojects\\basicbankapp\\basicbankapp\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB7F8FE-3875-4F58-B676-C79AD588D0ED}|BasicBankApp\\BasicBankApp.csproj|solutionrelative:basicbankapp\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Garrett Hiles\\OneDrive\\Documents\\GitHub\\PersonalProjects\\BasicBankApp\\BasicBankApp\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BasicBankApp\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\Garrett Hiles\\OneDrive\\Documents\\GitHub\\PersonalProjects\\BasicBankApp\\BasicBankApp\\BankAccount.cs",
+              "RelativeToolTip": "BasicBankApp\\BankAccount.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T20:30:21.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Garrett Hiles\\OneDrive\\Documents\\GitHub\\PersonalProjects\\BasicBankApp\\BasicBankApp\\Program.cs",
+              "RelativeDocumentMoniker": "BasicBankApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Garrett Hiles\\OneDrive\\Documents\\GitHub\\PersonalProjects\\BasicBankApp\\BasicBankApp\\Program.cs",
+              "RelativeToolTip": "BasicBankApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T20:28:47.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
