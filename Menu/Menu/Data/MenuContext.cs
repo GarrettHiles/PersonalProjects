@@ -6,7 +6,7 @@ namespace Menu.Data
 {
     public class MenuContext : DbContext
     {
-        public MenuContext(DbContextOptions<MenuContext> options) 
+        public MenuContext(DbContextOptions<MenuContext> options) : base(options)
         {
             
         }
