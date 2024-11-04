@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Garrett Hiles\\OneDrive\\Documents\\GitHub\\PersonalProjects\\Menu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCE48F8E-D855-4D50-9C77-55EA2D1B378A}|Menu\\Menu.csproj|c:\\users\\garrett hiles\\onedrive\\documents\\github\\personalprojects\\menu\\menu\\migrations\\20241101235601_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCE48F8E-D855-4D50-9C77-55EA2D1B378A}|Menu\\Menu.csproj|solutionrelative:menu\\migrations\\20241101235601_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCE48F8E-D855-4D50-9C77-55EA2D1B378A}|Menu\\Menu.csproj|c:\\users\\garrett hiles\\onedrive\\documents\\github\\personalprojects\\menu\\menu\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE48F8E-D855-4D50-9C77-55EA2D1B378A}|Menu\\Menu.csproj|solutionrelative:menu\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCE48F8E-D855-4D50-9C77-55EA2D1B378A}|Menu\\Menu.csproj|c:\\users\\garrett hiles\\onedrive\\documents\\github\\personalprojects\\menu\\menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCE48F8E-D855-4D50-9C77-55EA2D1B378A}|Menu\\Menu.csproj|solutionrelative:menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCE48F8E-D855-4D50-9C77-55EA2D1B378A}|Menu\\Menu.csproj|c:\\users\\garrett hiles\\onedrive\\documents\\github\\personalprojects\\menu\\menu\\models\\dishingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE48F8E-D855-4D50-9C77-55EA2D1B378A}|Menu\\Menu.csproj|solutionrelative:menu\\models\\dishingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FCE48F8E-D855-4D50-9C77-55EA2D1B378A}|Menu\\Menu.csproj|c:\\users\\garrett hiles\\onedrive\\documents\\github\\personalprojects\\menu\\menu\\data\\menucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +19,20 @@
       "RelativeMoniker": "D:0:0:{FCE48F8E-D855-4D50-9C77-55EA2D1B378A}|Menu\\Menu.csproj|solutionrelative:menu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FCE48F8E-D855-4D50-9C77-55EA2D1B378A}|Menu\\Menu.csproj|c:\\users\\garrett hiles\\onedrive\\documents\\github\\personalprojects\\menu\\menu\\migrations\\20241101235601_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE48F8E-D855-4D50-9C77-55EA2D1B378A}|Menu\\Menu.csproj|solutionrelative:menu\\migrations\\20241101235601_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE48F8E-D855-4D50-9C77-55EA2D1B378A}|Menu\\Menu.csproj|c:\\users\\garrett hiles\\onedrive\\documents\\github\\personalprojects\\menu\\menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE48F8E-D855-4D50-9C77-55EA2D1B378A}|Menu\\Menu.csproj|solutionrelative:menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE48F8E-D855-4D50-9C77-55EA2D1B378A}|Menu\\Menu.csproj|c:\\users\\garrett hiles\\onedrive\\documents\\github\\personalprojects\\menu\\menu\\controllers\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE48F8E-D855-4D50-9C77-55EA2D1B378A}|Menu\\Menu.csproj|solutionrelative:menu\\controllers\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FCE48F8E-D855-4D50-9C77-55EA2D1B378A}|Menu\\Menu.csproj|c:\\users\\garrett hiles\\onedrive\\documents\\github\\personalprojects\\menu\\menu\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCE48F8E-D855-4D50-9C77-55EA2D1B378A}|Menu\\Menu.csproj|solutionrelative:menu\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCE48F8E-D855-4D50-9C77-55EA2D1B378A}|Menu\\Menu.csproj|c:\\users\\garrett hiles\\onedrive\\documents\\github\\personalprojects\\menu\\menu\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCE48F8E-D855-4D50-9C77-55EA2D1B378A}|Menu\\Menu.csproj|solutionrelative:menu\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCE48F8E-D855-4D50-9C77-55EA2D1B378A}|Menu\\Menu.csproj|c:\\users\\garrett hiles\\onedrive\\documents\\github\\personalprojects\\menu\\menu\\models\\dishingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCE48F8E-D855-4D50-9C77-55EA2D1B378A}|Menu\\Menu.csproj|solutionrelative:menu\\models\\dishingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,24 +42,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Garrett Hiles\\OneDrive\\Documents\\GitHub\\PersonalProjects\\Menu\\Menu\\Controllers\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu\\Controllers\\Menu.cs",
+              "ToolTip": "C:\\Users\\Garrett Hiles\\OneDrive\\Documents\\GitHub\\PersonalProjects\\Menu\\Menu\\Controllers\\Menu.cs",
+              "RelativeToolTip": "Menu\\Controllers\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T23:59:22.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "20241101235601_Initial migration.cs",
               "DocumentMoniker": "C:\\Users\\Garrett Hiles\\OneDrive\\Documents\\GitHub\\PersonalProjects\\Menu\\Menu\\Migrations\\20241101235601_Initial migration.cs",
               "RelativeDocumentMoniker": "Menu\\Migrations\\20241101235601_Initial migration.cs",
               "ToolTip": "C:\\Users\\Garrett Hiles\\OneDrive\\Documents\\GitHub\\PersonalProjects\\Menu\\Menu\\Migrations\\20241101235601_Initial migration.cs",
               "RelativeToolTip": "Menu\\Migrations\\20241101235601_Initial migration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T23:56:02.201Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Garrett Hiles\\OneDrive\\Documents\\GitHub\\PersonalProjects\\Menu\\Menu\\Program.cs",
               "RelativeDocumentMoniker": "Menu\\Program.cs",
@@ -94,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "DishIngredient.cs",
               "DocumentMoniker": "C:\\Users\\Garrett Hiles\\OneDrive\\Documents\\GitHub\\PersonalProjects\\Menu\\Menu\\Models\\DishIngredient.cs",
               "RelativeDocumentMoniker": "Menu\\Models\\DishIngredient.cs",
@@ -107,20 +124,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Ingredient.cs",
               "DocumentMoniker": "C:\\Users\\Garrett Hiles\\OneDrive\\Documents\\GitHub\\PersonalProjects\\Menu\\Menu\\Models\\Ingredient.cs",
               "RelativeDocumentMoniker": "Menu\\Models\\Ingredient.cs",
               "ToolTip": "C:\\Users\\Garrett Hiles\\OneDrive\\Documents\\GitHub\\PersonalProjects\\Menu\\Menu\\Models\\Ingredient.cs",
               "RelativeToolTip": "Menu\\Models\\Ingredient.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T22:10:18.964Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Dish.cs",
               "DocumentMoniker": "C:\\Users\\Garrett Hiles\\OneDrive\\Documents\\GitHub\\PersonalProjects\\Menu\\Menu\\Models\\Dish.cs",
               "RelativeDocumentMoniker": "Menu\\Models\\Dish.cs",
